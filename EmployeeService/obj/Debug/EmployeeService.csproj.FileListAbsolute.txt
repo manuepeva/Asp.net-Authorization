@@ -1,0 +1,3 @@
+D:\Bitcoin_Wallet\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csprojResolveAssemblyReference.cache
+D:\Bitcoin_Wallet\EmployeeService\EmployeeService\obj\Debug\EmployeeService.csproj.CoreCompileInputs.cache
+D:\Bitcoin_Wallet\EmployeeService\EmployeeService\obj\Debug\EmployeeService.dll
